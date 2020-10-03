@@ -1,3 +1,7 @@
+/**
+determine if all the string character are unique
+link:https://www.geeksforgeeks.org/determine-string-unique-characters/
+ */
 import java.util.*;
 
 
